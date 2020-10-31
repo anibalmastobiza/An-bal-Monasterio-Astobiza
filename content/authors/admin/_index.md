@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include Philosophy of Cognitive Science, applied ethics and philosophy of technology.
 
 interests:
-- AI ethics
-- Neuroethics
-- roboethics, ethics of Big Data
+- Cognitive Science
+- Applied ethics
+- Philosophy of technology
 
 education:
   courses:
