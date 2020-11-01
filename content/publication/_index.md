@@ -13,3 +13,4 @@ header:
   caption: ""
   image: ""
 ---
+hugo new --kind publication publication/<Discursive-Frameworks-for-the-Development-of-Inclusive-Robotics>
