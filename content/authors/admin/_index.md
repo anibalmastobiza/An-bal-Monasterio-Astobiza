@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include Philosophy of Cognitive Science, applied ethics and philosophy of technology.
 
 interests:
-- AI ethics
-- Neuroethics
-- roboethics, ethics of Big Data
+- Cognitive Science
+- Applied ethics
+- Philosophy of technology
 
 education:
   courses:
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "anibalmastobiza@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
