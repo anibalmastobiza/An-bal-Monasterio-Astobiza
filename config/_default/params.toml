@@ -99,14 +99,14 @@ address = {street = "", city = "Bilbao", region = "Bizkaia", postcode = "", coun
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "43.2633182", longitude = "-2.9685838,13"}
 
-# Directions for visitors to locate you.
+#Directions for visitors to locate you.
 directions = ""
 
-# Office hours
+#Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = [""]
 
-# Enter an optional link for booking appointments (e.g. calendly.com).
+#Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
 
 
