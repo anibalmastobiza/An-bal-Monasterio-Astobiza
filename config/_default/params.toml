@@ -102,12 +102,7 @@ coordinates = {latitude = "43.2633182", longitude = "-2.9685838,13"}
 #Directions for visitors to locate you.
 directions = ""
 
-#Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = [""]
 
-#Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
 
 
 
