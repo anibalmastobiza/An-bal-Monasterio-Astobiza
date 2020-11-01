@@ -17,21 +17,21 @@ organizations:
 bio: My research interests include Philosophy of Cognitive Science, applied ethics and philosophy of technology.
 
 interests:
-- AI ethics
-- Neuroethics
-- roboethics, ethics of Big Data
+- Cognitive science
+- Applied ethics
+- Philosophy of technology
 
 education:
   courses:
   - course: PhD in Cognitive Science
     institution: UPV/EHU
-    year: 2014
+    year: 
   - course: MA in Social Psychology
     institution: UPV/EHU
-    year: 2010
+    year: 
   - course: BA in Philosophy
     institution: University of Deusto
-    year: 2003
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
