@@ -27,9 +27,12 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "Mi biblioteca.bib"
     author = ""
     exclude_featured = false
+    
+    
+
   
 [design]
   # Toggle between the various page layout types.

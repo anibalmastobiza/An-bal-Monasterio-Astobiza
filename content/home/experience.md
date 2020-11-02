@@ -18,6 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+title = "Visiting fellow in Global Health and Social Medicine, Center for Bioethics, Harvard Medical School"
+  company = "Education"
+  company_url = ""
+  location = "Boston, US"
+  date_start = "2018-10-11"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Writting
+  * Publish results
+  """
+
+  [[experience]]
   title = "Basque Government Posdoctoral Researcher"
   company = "Education"
   company_url = ""
