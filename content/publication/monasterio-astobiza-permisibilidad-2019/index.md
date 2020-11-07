@@ -52,7 +52,6 @@ doi: 10.14422/pen.v75.i283.y2019.022
 ---
 
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Bringing inclusivity to robotics with INBOTS
 subtitle: ''
